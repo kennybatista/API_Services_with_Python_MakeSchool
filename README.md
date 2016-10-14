@@ -1,3 +1,3 @@
 # MiniPythonProjects
 
-### Story coming soon!
+### Development story coming soon!
